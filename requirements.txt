@@ -1,0 +1,17 @@
+setuptools==50.0.0
+timm
+opencv-python
+open3d==0.18.0
+kornia==0.6.8
+sharedarray==3.0.0
+matplotlib==3.3.0
+typing_extensions==3.7.4
+dash==2.6.0
+pandas==1.2.0
+tensorboardX==2.6
+scikit-image==0.18.0
+scipy==1.5.0
+numba==0.53.0
+numpy==1.19.2
+pycocotools
+torch_scatter==2.0.2
