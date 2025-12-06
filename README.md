@@ -1,6 +1,6 @@
 <div align="center">
 
-# Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection
+# ImagePG: Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection
 
 **Minseung Lee¹**, **Seokha Moon¹**, **Seung Joon Lee²**, **Reza Mahjourian³**, and **Jinkyu Kim¹**  
 ¹CSE, Korea University · ²LG Innotek · ³Waymo Research  
