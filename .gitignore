@@ -1,0 +1,11 @@
+/chks
+/output
+/output_best
+/output_old
+**/data
+/seg
+**/build/
+*.pyc
+*.so
+**/*.pth
+/pcdet.egg-info
