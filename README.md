@@ -118,13 +118,12 @@ We thank for the multiple great open-sourced code bases.
 
 ## Citation
 ```bibtex
-@article{lee2025imagepg,
-      title={Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection}, 
-      author={Minseung Lee and Seokha Moon and Seung Joon Lee and Reza Mahjourian and Jinkyu Kim},
-      year={2025},
-      eprint={2409.14985},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.14985}, 
+@InProceedings{Lee_2026_WACV,
+    author    = {Lee, Minseung and Moon, Seokha and Lee, Seung Joon and Mahjourian, Reza and Kim, Jinkyu},
+    title     = {Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {March},
+    year      = {2026},
+    pages     = {7137-7147}
 }
 ```
