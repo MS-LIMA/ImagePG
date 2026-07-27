@@ -6,6 +6,7 @@
 ¹CSE, Korea University · ²LG Innotek · ³Waymo Research  
 
 <a href="https://arxiv.org/abs/2409.14985"><img src='https://img.shields.io/badge/arXiv-ImagePG-red' alt='Paper PDF'></a>
+<a href="https://openaccess.thecvf.com/content/WACV2026/html/Lee_Image-Guided_Semantic_Pseudo-LiDAR_Point_Generation_for_3D_Object_Detection_WACV_2026_paper.html"><img src='https://img.shields.io/badge/IEEE/CVF-ImagePG-rgb(97,150,202)' alt='Paper PDF'></a>
 
 </div>
 
