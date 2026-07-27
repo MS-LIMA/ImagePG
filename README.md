@@ -5,10 +5,8 @@
 **Minseung Lee¹**, **Seokha Moon¹**, **Seung Joon Lee²**, **Reza Mahjourian³**, and **Jinkyu Kim¹**  
 ¹CSE, Korea University · ²LG Innotek · ³Waymo Research  
 
-<span>
-<a href="https://arxiv.org/abs/2409.14985"><img src='https://img.shields.io/badge/arXiv-ImagePG-red' alt='Paper PDF'></a>
-<a href="https://openaccess.thecvf.com/content/WACV2026/html/Lee_Image-Guided_Semantic_Pseudo-LiDAR_Point_Generation_for_3D_Object_Detection_WACV_2026_paper.html"><img src='https://img.shields.io/badge/IEEE/CVF-ImagePG-rgb(97,150,202)' alt='Paper PDF'></a>
-</span>
+[![arXiv](https://img.shields.io/badge/arXiv-ImagePG-red)](https://arxiv.org/abs/2409.14985)
+[![WACV 2026](https://img.shields.io/badge/IEEE/CVF-ImagePG-rgb(97,150,202))](https://openaccess.thecvf.com/content/WACV2026/html/Lee_Image-Guided_Semantic_Pseudo-LiDAR_Point_Generation_for_3D_Object_Detection_WACV_2026_paper.html)
 
 </div>
 
